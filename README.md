@@ -71,15 +71,29 @@ Fill out the following table, mapping decimal numbers `0` through `15` to their 
 |---------|------------------------|
 | 0       | 0000                   |
 | 1       | 0001                   |
-| ...     | ...                    |
-| 15      | ????                   |
+| 2       | 0010                   |
+| 3       | 0011                   |
+| 4       | 0100                   |
+| 5       | 0101                   |
+| 6       | 0110                   |
+| 7       | 0111                   |
+| 8       | 1000                   |
+| 9       | 1001                   |
+| 10      | 1010                   |
+| 11      | 1011                   |
+| 12      | 1100                   |
+| 13      | 1101                   |
+| 14      | 1110                   |
+| 15      | 1111                   |
 
 **How many binary digits (bits) are needed?**
-
+4 bits are needed
 Explain how to calculate the number of bits required:
 <details>
 <summary>Your Answer</summary>
-Erase this text and write your answer here!
+   we use the formula: 
+   2^n > number of value
+   
 </details>
 
 ---
