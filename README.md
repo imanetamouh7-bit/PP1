@@ -177,7 +177,7 @@ Using your Boolean equations, build a logic network in [CircuitVerse](https://ci
 
 <details>
 <summary>Your solution</summary>
-A share link to your solution goes here: <a href=".................">Link!</a>
+A share link to your solution goes here: <a href="https://circuitverse.org/users/419145/projects/task-4-pp1-imane-tamouh">Link!</a>
 </details>
 
 ---
